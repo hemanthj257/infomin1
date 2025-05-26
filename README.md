@@ -43,18 +43,18 @@ This project was created as part of my internship at **Infomin**, with a goal to
 
 ## 🛠️ Tech Stack
 
-**🌐 Frontend**
--🖊️ HTML5 – Structured the web pages
--🎨 Tailwind CSS – Utility-first CSS for fast and responsive UI styling
--⚙️ Vanilla JavaScript – Core scripting for functionality and interactivity
+### 🌐 Frontend
+- 🖊️ **HTML5** – Structured the web pages  
+- 🎨 **Tailwind CSS** – Utility-first CSS for fast and responsive UI styling  
+- ⚙️ **Vanilla JavaScript** – Core scripting for functionality and interactivity
 
-**🧰 Build Tooling**
--🧪 Gulp.js – Automated tasks like minification, live reloading, and compiling assets
+### 🧰 Build Tooling
+- 🧪 **Gulp.js** – Automated tasks like minification, live reloading, and compiling assets
 
-**☁️ Deployment & Tools**
--🌐 Netlify / Vercel – Hosted and deployed the live website
--🐙 Git & GitHub – Version control and collaboration
--🖥️ VS Code – Development environment
+### ☁️ Deployment & Tools
+- 🌐 **Netlify / Vercel** – Hosted and deployed the live website  
+- 🐙 **Git & GitHub** – Version control and collaboration  
+- 🖥️ **VS Code** – Development environment
 
 
 
